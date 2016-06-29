@@ -1,0 +1,20 @@
+
+ul.nav li{ 
+	display: inline-block;
+     padding-right: 10px;
+            }
+
+p {
+	color:black;
+}
+
+#about_blue {
+	background-color: Blue;
+}
+#about_yellow {
+	color:orange;
+}
+
+.color-info {
+	color:orange;
+}
